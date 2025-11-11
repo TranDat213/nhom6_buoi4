@@ -6,3 +6,4 @@ C1
 D
 C2
 A2
+THêm dòng này
